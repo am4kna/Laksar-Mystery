@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\projects\\Laksar Mystery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58E4BE-B44E-65FC-8A9A-7E1BBFD70589}|Assembly-CSharp.csproj|d:\\unity\\projects\\laksar mystery\\assets\\playerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B58E4BE-B44E-65FC-8A9A-7E1BBFD70589}|Assembly-CSharp.csproj|solutionrelative:assets\\playerpos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B58E4BE-B44E-65FC-8A9A-7E1BBFD70589}|Assembly-CSharp.csproj|d:\\unity\\projects\\laksar mystery\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B58E4BE-B44E-65FC-8A9A-7E1BBFD70589}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerPos.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\Laksar Mystery\\Assets\\PlayerPos.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerPos.cs",
+              "ToolTip": "D:\\unity\\projects\\Laksar Mystery\\Assets\\PlayerPos.cs",
+              "RelativeToolTip": "Assets\\PlayerPos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T21:01:45.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "D:\\unity\\projects\\Laksar Mystery\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "D:\\unity\\projects\\Laksar Mystery\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:28:35.933Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
